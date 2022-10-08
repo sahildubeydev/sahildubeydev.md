@@ -34,7 +34,7 @@
 
 
 ## Watch my contributions get eaten by a snake 🐍
-
+![snake gif](https://github.com/sahildubeydev/sahildubeydev/blob/output/github-contribution-grid-snake.gif)
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
