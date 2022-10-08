@@ -17,15 +17,24 @@
 - 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.  
 - 📫 &nbsp;You can shoot me an email at **dsahil.contact@gmail.com** I'll try to respond as soon as I can.
 - ⚡ Fun fact: **Gif speaks 😉**
+<br/>
 
-## Find me around the web 🌎 
-<a href="https://www.linkedin.com/in/sahil-dubey/"><img align="left" width="300px" height="200px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"></a>
 
+
+## Find me around the web 🌎
+<a href="https://www.linkedin.com/in/sahil-dubey/"><img align="left" width="200px" height="150px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"></a>
 &nbsp;&nbsp;Practising on <a href="https://leetcode.com/sahildubey/">LeetCode</a> 😍
 
-&nbsp;&nbsp;Learning on <a href="https://auth.geeksforgeeks.org/user/sahil_dubey/">GeeksforGeeks  </a> 🙃
+&nbsp;&nbsp;Learning on <a href="https://auth.geeksforgeeks.org/user/sahil_dubey/">GeeksforGeeks</a> 🙃
 
 &nbsp;&nbsp;Sharing updates on <a href="https://www.linkedin.com/in/sahil-dubey/">LinkedIn</a> 😇
+
+<br/>
+
+
+
+## Watch my contributions get eaten by a snake 🐍
+
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
