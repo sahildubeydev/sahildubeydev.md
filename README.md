@@ -19,10 +19,11 @@
 - 🎓 &nbsp;I'm currently studying Bachelor of Computer Application at Siddhartha Degree College, Osmania University, Hyderabad.
 - 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.  
 - 📫 &nbsp;You can shoot me an email at **dsahil.contact@gmail.com** I'll try to respond as soon as I can.
-- ⚡ Fun fact: 👇😉
+- ⚡ &nbsp;Fun fact: **Gif Speaks**😉
+<!-- <img alt="Degree" width="50px" height="50px" src="https://user-images.githubusercontent.com/48377225/194800441-9cd5c1ef-117c-414a-91e7-6a44c3428143.mp4"/> -->
 <br/>
 
-https://user-images.githubusercontent.com/48377225/194800441-9cd5c1ef-117c-414a-91e7-6a44c3428143.mp4 
+
 
 
 <!-- Find Me -->
