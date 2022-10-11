@@ -5,6 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sahildubey_?label=Follow)](https://twitter.com/intent/follow?screen_name=sahildubey_)
 [![Linkedin: Sahil](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
 [![GitHub followers](https://img.shields.io/github/followers/sahildubeydev?label=Follow&style=social)](https://github.com/sahildubeydev)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=sahildubeydev&color=brightgreen"> 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/48377225/194700495-177ce7d2-16ee-499c-b99b-efb16d77fe95.png" alt="introduction-banner" />
@@ -54,6 +55,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
