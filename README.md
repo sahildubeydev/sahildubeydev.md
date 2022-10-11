@@ -30,10 +30,11 @@
 - &nbsp;&nbsp;Learning on <a href="https://auth.geeksforgeeks.org/user/sahil_dubey/">GeeksforGeeks</a> 🙃
 - &nbsp;&nbsp;Sharing updates on <a href="https://www.linkedin.com/in/sahil-dubey/">LinkedIn</a> 😇
 
-<br/><br/>
+<br/>
 
 <!-- Tech Stack -->
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahil-dubey/"><img align="right" width="300px" height="200px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a>
+
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
