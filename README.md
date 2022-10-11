@@ -60,7 +60,7 @@
 <br/>
 <!--Contribution-->
 <div display="flex">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&locale=en" alt="sahildubeydev" /><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&" alt="sahildubeydev" />
+<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&locale=en" alt="sahildubeydev" /><img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&" alt="sahildubeydev" />
 </div>
 
 <br/><br/><br/><br/>
