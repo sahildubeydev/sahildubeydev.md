@@ -31,7 +31,7 @@
 <br/><br/>
 
 <!-- Tech Stack -->
-## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahil-dubey/"><img align="right" width="220px" height="180px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a>
+## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahil-dubey/"><img align="right" width="250px" height="180px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a>
 
 
 - 💻 &nbsp;
