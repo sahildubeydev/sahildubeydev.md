@@ -12,9 +12,7 @@
 </div>
 
 <!-- About Me -->
-## 👨🏾‍💻 &nbsp;About Me
-
-<img alt="Night Coding" width="260px" height="160px" src="https://user-images.githubusercontent.com/48377225/194701589-8848ee86-034d-44e3-b05d-f7135b9a65f8.gif" align="right"/>
+## 👨🏾‍💻 &nbsp;About Me<img alt="Night Coding" width="260px" height="190px" src="https://user-images.githubusercontent.com/48377225/194701589-8848ee86-034d-44e3-b05d-f7135b9a65f8.gif" align="right"/>
 
 - 🎓 &nbsp;I'm currently studying Bachelor of Computer Application at Siddhartha Degree College, Osmania University, Hyderabad.
 - 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.  
