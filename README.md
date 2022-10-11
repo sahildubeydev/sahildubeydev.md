@@ -30,10 +30,10 @@
 - &nbsp;&nbsp;Learning on <a href="https://auth.geeksforgeeks.org/user/sahil_dubey/">GeeksforGeeks</a> 🙃
 - &nbsp;&nbsp;Sharing updates on <a href="https://www.linkedin.com/in/sahil-dubey/">LinkedIn</a> 😇
 
-<br/>
+<br/><br/>
 
 <!-- Tech Stack -->
-## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahil-dubey/"><img align="right" width="300px" height="200px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a>
+## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahil-dubey/"><img align="right" width="220px" height="180px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a>
 
 
 - 💻 &nbsp;
@@ -57,7 +57,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-<br/>
+<br/><br/>
 <!--Contribution-->
 <div display="flex">
 <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&locale=en" alt="sahildubeydev" /><img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&" alt="sahildubeydev" />
