@@ -20,7 +20,6 @@
 - ✈️&nbsp;I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions! Hire me for remote work & internships.
 - ⚡&nbsp;Fun fact: **I am a person who will push the door even if it says \"PULL\". XD😉**
 <!-- <img alt="Degree" width="50px" height="50px" src="https://user-images.githubusercontent.com/48377225/194800441-9cd5c1ef-117c-414a-91e7-6a44c3428143.mp4"/> -->
-<br/>
 
 <!-- Find Me -->
 ## Find me around the web 🌎<a href="https://www.linkedin.com/in/sahil-dubey/"><img align="left" width="220px" height="180px" src="https://user-images.githubusercontent.com/48377225/194701811-9ec16f0b-e6a0-4dd1-b0fe-12924f310428.gif"></a>
