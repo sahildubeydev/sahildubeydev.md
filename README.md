@@ -8,7 +8,7 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sahildubeydev&color=brightgreen"> 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/48377225/194700495-177ce7d2-16ee-499c-b99b-efb16d77fe95.png" alt="introduction-banner" />
+<img src="https://user-images.githubusercontent.com/48377225/195859571-3d495929-37b3-4585-a635-399b053cd07d.gif" alt="introduction-banner" />
 </div>
 
 <!-- About Me -->
