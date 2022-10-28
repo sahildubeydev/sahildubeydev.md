@@ -5,7 +5,7 @@
 ###### Glad to see you here :heart:
 [![Twitter Follow](https://img.shields.io/twitter/follow/sahildubey_?label=Follow)](https://twitter.com/intent/follow?screen_name=sahildubey_)
 [![Linkedin: Sahil](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
-[![GitHub followers](https://img.shields.io/github/followers/sahildubeydev?label=Follow&style=social)](https://github.com/sahildubeydev)
+[![GitHub follow](https://img.shields.io/github/followers/sahildubeydev?label=Follow&style=social)](https://github.com/sahildubeydev)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=sahildubeydev&color=brightgreen"> 
 
 <div align="center">
