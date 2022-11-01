@@ -82,4 +82,4 @@
 
 ![github_quote](https://user-images.githubusercontent.com/48377225/199230627-a4112065-3047-4656-8ea2-c5b121a71347.png)
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-sahildubeydev-red)](https://github.com/sahildubey)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-sahildubey-red)](https://github.com/sahildubey)
