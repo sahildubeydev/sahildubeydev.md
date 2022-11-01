@@ -3,10 +3,11 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Sahil 👨🏾‍💻</h1>  
 
 ###### Glad to see you here :heart:
-[![Twitter Follow](https://img.shields.io/twitter/follow/sahildubey_?label=Follow)](https://twitter.com/intent/follow?screen_name=sahildubey_)
-[![Linkedin: Sahil](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
-[![GitHub follow](https://img.shields.io/github/followers/sahildubeydev?label=Follow&style=social)](https://github.com/sahildubeydev)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=sahildubeydev&color=brightgreen"> 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/sahildubey_/)](https://www.twitter.com/sahildubey/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sahil__dubey/)](https://www.instagram.com/sahil__dubey/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/sahildubeydev/)](https://www.github.com/sahildubeydev/)
+[![views](https://komarev.com/ghpvc/?username=sahildubeydev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sahildubeydev)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/48377225/195859571-3d495929-37b3-4585-a635-399b053cd07d.gif" alt="introduction-banner" />
@@ -63,16 +64,23 @@
   
 <br/><br/>
 <!--Contribution-->
+<b>My GitHub Stats</b>
 <div display="flex">
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&locale=en" alt="sahildubeydev" /><img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&" alt="sahildubeydev" />
+<a href="http://www.github.com/sahildubeydev"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="sahildubey's GitHub stats" /></a>
+
+<a href="http://www.github.com/sahildubeydev"><img img align="left" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
+  
+<a href="http://www.github.com/sahildubeydev"><img src="https://activity-graph.herokuapp.com/graph?username=sahildubeydev&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <!-- Snake -->
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/sahildubeydev/sahildubeydev/blob/output/github-contribution-grid-snake.svg)
 
+![github_quote](https://user-images.githubusercontent.com/48377225/199230627-a4112065-3047-4656-8ea2-c5b121a71347.png)
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-sahildubeydev-red)](https://github.com/sahildubeydev)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-sahildubeydev-red)](https://github.com/sahildubey)
 
