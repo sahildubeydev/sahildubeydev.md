@@ -62,7 +62,7 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=(666666,FFFFFF,CCCCCC,669933))
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=EF5B25)
  
-<br/><br/>
+<br/>
 <!--Contribution-->
 ## My GitHub Stats
 <div>
