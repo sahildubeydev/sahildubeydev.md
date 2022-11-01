@@ -64,7 +64,7 @@
  
 <br/><br/>
 <!--Contribution-->
-<b>My GitHub Stats</b>
+## My GitHub Stats
 <div>
 <a href="http://www.github.com/sahildubeydev"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="sahildubey's GitHub stats" /></a>
 
