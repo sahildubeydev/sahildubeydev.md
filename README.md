@@ -61,20 +61,21 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=(666666,FFFFFF,CCCCCC,669933))
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=EF5B25)
-  
+ 
 <br/><br/>
 <!--Contribution-->
 <b>My GitHub Stats</b>
-<div display="flex">
+<div>
 <a href="http://www.github.com/sahildubeydev"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="sahildubey's GitHub stats" /></a>
 
 <a href="http://www.github.com/sahildubeydev"><img img align="left" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
+<div/>
 
-<br/><br/>
-  
+<br/><br/><br/><br/><br/><br/><br/><br/>
+ 
+ <!--
 <a href="http://www.github.com/sahildubeydev"><img src="https://activity-graph.herokuapp.com/graph?username=sahildubeydev&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+-->
 
 <!-- Snake -->
 ## Watch my contributions get eaten by a snake 🐍
