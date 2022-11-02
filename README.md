@@ -4,7 +4,7 @@
 
 ###### Glad to see you here :heart:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/sahildubey_/)](https://www.twitter.com/sahildubey/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/sahildubey_/)](https://www.twitter.com/sahildubey_/)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sahil__dubey/)](https://www.instagram.com/sahil__dubey/)
 [![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/sahildubeydev/)](https://www.github.com/sahildubeydev/)
 [![views](https://komarev.com/ghpvc/?username=sahildubeydev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sahildubeydev)
