@@ -21,7 +21,7 @@
 - 📫&nbsp;You can shoot me an email at **dsahil.contact@gmail.com** I'll try to respond as soon as I can.
 - ✈️&nbsp;I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions! Hire me for remote work & internships.
 - ⚡&nbsp;Fun fact: **I am a person who will push the door even if it says \"PULL\". XD😉**
-- 📃&nbsp; Check out <a href="https://drive.google.com/file/d/1J9nk6TN9CzN7LPr1Yx2TQiFwGBUF0t-3/view?usp=sharing" target="_blank">My Resume</a>
+- 📃&nbsp; Check out <a href="https://drive.google.com/file/d/1SWDreo0FSii8xfr7xwB0pt5ExVcypnQd/view?usp=share_link" target="_blank">My Resume</a>
 <!-- <img alt="Degree" width="50px" height="50px" src="https://user-images.githubusercontent.com/48377225/194800441-9cd5c1ef-117c-414a-91e7-6a44c3428143.mp4"/> -->
 
 <!-- Find Me -->
