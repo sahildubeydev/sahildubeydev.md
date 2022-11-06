@@ -3,11 +3,11 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Sahil 👨🏾‍💻</h1>  
 
 ###### Glad to see you here :heart:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/sahildubey_/)](https://www.twitter.com/sahildubey_/)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sahil__dubey/)](https://www.instagram.com/sahil__dubey/)
-[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=flat-square&logo=github&logoColor=white&link=https://www.github.com/sahildubeydev/)](https://www.github.com/sahildubeydev/)
-[![views](https://komarev.com/ghpvc/?username=sahildubeydev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sahildubeydev)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white&link=https://www.twitter.com/sahildubey_/)](https://www.twitter.com/sahildubey_/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/sahil__dubey/)](https://www.instagram.com/sahil__dubey/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=plastic&logo=github&logoColor=white&link=https://www.github.com/sahildubeydev/)](https://www.github.com/sahildubeydev/)
+[![views](https://komarev.com/ghpvc/?username=sahildubeydev&label=Profile%20views&color=0e75b6&style=plastic)](https://github.com/sahildubeydev)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/48377225/195859571-3d495929-37b3-4585-a635-399b053cd07d.gif" alt="introduction-banner" />
@@ -18,7 +18,7 @@
 
 - 🎓&nbsp;I'm currently studying Bachelor of Computer Application at Siddhartha Degree College, Osmania University, Hyderabad, India.
 - 💡&nbsp;Some technologies I have worked on include ReactJS, JavaScript, NodeJS, and ExpressJS.  
-- 📫&nbsp;You can shoot me an email at **dsahil.contact@gmail.com** I'll try to respond as soon as I can.
+- 📫&nbsp;You can shoot me an [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=plastic&logo=&logoColor=white%22">](mailto:dsahil.contact@gmail.com) I'll try to respond as soon as I can.
 - ✈️&nbsp;I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions! Hire me for remote work & internships.
 - ⚡&nbsp;Fun fact: **I am a person who will push the door even if it says \"PULL\". XD😉**
 - 📃&nbsp; Check out <a href="https://drive.google.com/file/d/1SWDreo0FSii8xfr7xwB0pt5ExVcypnQd/view?usp=share_link" target="_blank">My Resume</a>
@@ -38,29 +38,29 @@
 
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=4B8BBE)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=f89820)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=4597ce)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=plastic&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=plastic&logo=python&logoColor=4B8BBE)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=plastic&logo=java&logoColor=f89820)
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=plastic&logo=dart&logoColor=4597ce)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=4597ce)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=plastic&logo=flutter&logoColor=4597ce)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=plastic&logo=mongodb)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=plastic&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=(666666,FFFFFF,CCCCCC,669933))
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=EF5B25)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=plastic&logo=android-studio&logoColor=(666666,FFFFFF,CCCCCC,669933))
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=plastic&logo=postman&logoColor=EF5B25)
  
 <!--Contribution-->
 ## My GitHub Stats
@@ -82,4 +82,4 @@
 
 ![github_quote](https://user-images.githubusercontent.com/48377225/199230627-a4112065-3047-4656-8ea2-c5b121a71347.png)
 
-[![](https://img.shields.io/badge/Made%20With%20❤️%20By-sahildubey-red)](https://github.com/sahildubey)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-sahildubey-red.svg?&style=plastic)](https://github.com/sahildubey)
