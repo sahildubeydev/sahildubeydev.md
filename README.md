@@ -5,11 +5,12 @@
 ###### Glad to see you here :heart:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white&link=https://www.twitter.com/sahildubey_/)](https://www.twitter.com/sahildubey_/)
+[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=plastic&logo=github&logoColor=white&link=https://www.github.com/sahildubeydev/)](https://www.github.com/sahildubeydev/)
+[![views](https://komarev.com/ghpvc/?username=sahildubeydev&label=Profile%20views&color=0e75b6&style=plastic)](https://github.com/sahildubeydev)
+
 <!--
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/sahil__dubey/)](https://www.instagram.com/sahil__dubey/)
 -->
-[![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=plastic&logo=github&logoColor=white&link=https://www.github.com/sahildubeydev/)](https://www.github.com/sahildubeydev/)
-[![views](https://komarev.com/ghpvc/?username=sahildubeydev&label=Profile%20views&color=0e75b6&style=plastic)](https://github.com/sahildubeydev)
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/48377225/195859571-3d495929-37b3-4585-a635-399b053cd07d.gif" alt="introduction-banner" />
