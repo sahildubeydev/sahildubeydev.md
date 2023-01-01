@@ -1,6 +1,6 @@
 <!-- Greetings -->
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Sahil 👨🏾‍💻</h1>  
+<h1 align="center">Hey👋, I'm Sahil 👨🏾‍💻</h1>  
 
 ###### Glad to see you here :heart:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
