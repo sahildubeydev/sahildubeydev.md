@@ -3,7 +3,7 @@
 <h1 align="center">Hey👋, I'm Sahil 👨🏾‍💻</h1>  
 
 ###### Glad to see you here :heart:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahil-dubey/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahildubey/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white&link=https://www.twitter.com/sahildubey_/)](https://www.twitter.com/sahildubey_/)
 [![GitHub](https://img.shields.io/badge/-Github-%23100000.svg?&style=plastic&logo=github&logoColor=white&link=https://www.github.com/sahildubeydev/)](https://www.github.com/sahildubeydev/)
 [![views](https://komarev.com/ghpvc/?username=sahildubeydev&label=Profile%20views&color=0e75b6&style=plastic)](https://github.com/sahildubeydev)
