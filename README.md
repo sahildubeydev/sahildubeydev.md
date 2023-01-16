@@ -79,10 +79,13 @@
 <a href="http://www.github.com/sahildubeydev"><img src="https://activity-graph.herokuapp.com/graph?username=sahildubeydev&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
 
-<!-- Snake -->
+<!-- Snake 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/sahildubeydev/sahildubeydev/blob/output/github-contribution-grid-snake.svg)
+-->
 
 ![github_quote](https://user-images.githubusercontent.com/48377225/199230627-a4112065-3047-4656-8ea2-c5b121a71347.png)
+  
+![animation_footer](https://user-images.githubusercontent.com/48377225/212658642-3885993b-706c-4321-9a61-327f7c131eb9.svg)
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-sahildubey-red.svg?&style=plastic)](https://github.com/sahildubey)
