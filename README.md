@@ -82,9 +82,10 @@
 <!-- Snake 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/sahildubeydev/sahildubeydev/blob/output/github-contribution-grid-snake.svg)
--->
+
 
 ![github_quote](https://user-images.githubusercontent.com/48377225/199230627-a4112065-3047-4656-8ea2-c5b121a71347.png)
+-->
   
 ![animation_footer](https://user-images.githubusercontent.com/48377225/212658642-3885993b-706c-4321-9a61-327f7c131eb9.svg)
 
