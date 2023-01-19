@@ -1,6 +1,6 @@
 <!-- Greetings -->
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/48377225/213465956-bbd996b3-3076-4916-aa92-ba2e9133324c.gif" width="25px"> I'm Sahil 👨🏾‍💻</h1>  
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/48377225/213481413-c139d1cd-f157-4702-a500-293076de94f4.gif" width="25px"> I'm Sahil <img src="https://user-images.githubusercontent.com/48377225/213482769-bc185909-250e-4721-9e25-52221939dbe1.gif" height="30px" width="50px"></h1> 
 
 ###### Glad to see you here :heart:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahildubey/)
@@ -70,7 +70,7 @@
 <div>
 <a href="http://www.github.com/sahildubeydev"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&theme=tokyonight" alt="sahildubey's GitHub stats" /></a>
 
-<a href="http://www.github.com/sahildubeydev"><img img align="left" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sahildubeydev"><img align="left" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <div/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
