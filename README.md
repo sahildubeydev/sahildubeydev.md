@@ -68,7 +68,7 @@
 <!--Contribution-->
 ## My GitHub Stats
 <div>
-<a href="http://www.github.com/sahildubeydev"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&theme=radical" alt="sahildubey's GitHub stats" /></a>
+<a href="http://www.github.com/sahildubeydev"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=sahildubeydev&show_icons=true&theme=tokyonight" alt="sahildubey's GitHub stats" /></a>
 
 <a href="http://www.github.com/sahildubeydev"><img img align="left" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahildubeydev&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <div/>
