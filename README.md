@@ -1,6 +1,6 @@
 <!-- Greetings -->
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/48377225/213481413-c139d1cd-f157-4702-a500-293076de94f4.gif" width="25px"> I'm Sahil <img src="https://user-images.githubusercontent.com/48377225/213482769-bc185909-250e-4721-9e25-52221939dbe1.gif" height="30px" width="50px"></h1> 
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/48377225/213481413-c139d1cd-f157-4702-a500-293076de94f4.gif" width="25px"> I'm Sahil🧑🏽‍💻</h1> 
 
 ###### Glad to see you here :heart:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-dubey/)](https://www.linkedin.com/in/sahildubey/)
