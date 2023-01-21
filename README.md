@@ -23,7 +23,7 @@
 - 💡&nbsp;Some technologies I have worked on include ReactJS, JavaScript, NodeJS, and ExpressJS.  
 - 📫&nbsp;You can shoot me an &nbsp;[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=plastic&logo=&logoColor=white%22">](mailto:dsahil.contact@gmail.com)&nbsp; I'll try to respond as soon as I can.
 - ✈️&nbsp;I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions! Hire me for remote work & internships.
-- ⚡&nbsp;Fun fact: **It is not always possible to explain everything, Time will teach.😉**
+- ⚡&nbsp;Fun fact: **I stay along with Java and IntelliJ IDEA.😉**
 - 📃&nbsp; Check out &nbsp;[<img src ="https://img.shields.io/badge/My-Resume-0D96F6.svg?&style=flat&logo=&logoColor=white">](https://drive.google.com/file/d/1geWoN-SNUR2SH4-RCe27NKwv8EaMEk6m/view?usp=share_link)
 <!-- <img alt="Degree" width="50px" height="50px" src="https://user-images.githubusercontent.com/48377225/194800441-9cd5c1ef-117c-414a-91e7-6a44c3428143.mp4"/> -->
 
