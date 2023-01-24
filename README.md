@@ -20,7 +20,7 @@
 ## 👨🏾‍💻 &nbsp;About Me<img alt="Night Coding" width="260px" height="250px" src="https://user-images.githubusercontent.com/48377225/194701589-8848ee86-034d-44e3-b05d-f7135b9a65f8.gif" align="right"/>
 
 - 🎓&nbsp;I'm currently studying Bachelor of Computer Application at Siddhartha Degree College, Osmania University, Hyderabad, India.
-- 💡&nbsp;Some technologies I have worked on include ReactJS, JavaScript, NodeJS, and ExpressJS.  
+- 💡&nbsp;Some technologies I have worked on include Spring Boot, ReactJS, JavaScript, NodeJS, and ExpressJS.  
 - 📫&nbsp;You can shoot me an &nbsp;[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=plastic&logo=&logoColor=white%22">](mailto:dsahil.contact@gmail.com)&nbsp; I'll try to respond as soon as I can.
 - ✈️&nbsp;I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions! Hire me for remote work & internships.
 - ⚡&nbsp;Fun fact: **Java is my daily Sport and IntelliJ IDEA is my favourite playgorund.😉**
