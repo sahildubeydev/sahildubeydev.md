@@ -32,12 +32,12 @@
 
 - &nbsp;&nbsp;Practising on <a href="https://leetcode.com/sahildubey/">LeetCode</a> 😍
 - &nbsp;&nbsp;Learning on <a href="https://auth.geeksforgeeks.org/user/sahil_dubey/">GeeksforGeeks</a> 🙃
-- &nbsp;&nbsp;Sharing updates on <a href="https://www.linkedin.com/in/sahil-dubey/">LinkedIn</a> 😇
+- &nbsp;&nbsp;Sharing updates on <a href="https://www.linkedin.com/in/sahildubey/">LinkedIn</a> 😇
 
 <br/><br/>
 
 <!-- Tech Stack -->
-## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahil-dubey/"><img align="right" width="280px" height="180px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a>
+## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahildubey/"><img align="right" width="280px" height="180px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a>
 
 
 - 💻 &nbsp;
