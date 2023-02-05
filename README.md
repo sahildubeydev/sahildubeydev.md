@@ -43,12 +43,14 @@
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=plastic&logo=dart&logoColor=4597ce)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=plastic&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
+  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=plastic&logo=CSS3&logoColor=1572B6)
+  ![JavaScript(ES6)](https://img.shields.io/badge/-JavaScript-333333?style=plastic&logo=javascript)
+  <!--
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=plastic&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=plastic&logo=react)
   ![Express](https://img.shields.io/badge/-Express-333333?style=plastic&logo=express)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=plastic&logo=flutter&logoColor=4597ce)
+  -->
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=plastic&logo=mongodb)
