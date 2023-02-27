@@ -24,7 +24,7 @@
 <!-- <img alt="Degree" width="50px" height="50px" src="https://user-images.githubusercontent.com/48377225/194800441-9cd5c1ef-117c-414a-91e7-6a44c3428143.mp4"/> -->
 
 <!-- Find Me -->
-## Find me around the web 🌎<a href="https://www.linkedin.com/in/sahil-dubey/"></a><img align="left" width="220px" height="180px" src="https://user-images.githubusercontent.com/48377225/194701811-9ec16f0b-e6a0-4dd1-b0fe-12924f310428.gif"></a>
+## Find me around the web 🌎<a href="https://www.linkedin.com/in/sahil-dubey/"><img align="left" width="220px" height="180px" src="https://user-images.githubusercontent.com/48377225/194701811-9ec16f0b-e6a0-4dd1-b0fe-12924f310428.gif"></a>
 
 - &nbsp;&nbsp;Practising on <a href="https://leetcode.com/sahildubey/">LeetCode</a> 😍
 - &nbsp;&nbsp;Learning on <a href="https://auth.geeksforgeeks.org/user/sahil_dubey/">GeeksforGeeks</a> 🙃
@@ -33,7 +33,7 @@
 <br/><br/>
 
 <!-- Tech Stack -->
-## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahildubey/"><img align="right" width="280px" height="180px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a>
+<!-- ## 🛠 &nbsp;Tech Stack <a href="https://www.linkedin.com/in/sahildubey/"><img align="right" width="280px" height="180px" src="https://user-images.githubusercontent.com/48377225/194987989-ec089b99-a858-48f9-a1c9-cdeecb1e9079.gif"></a> -->
 
 
 - 💻 &nbsp;
