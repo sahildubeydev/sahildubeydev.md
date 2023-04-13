@@ -86,7 +86,6 @@
 
 ![github_quote](https://user-images.githubusercontent.com/48377225/199230627-a4112065-3047-4656-8ea2-c5b121a71347.png)
 -->
-![cartoon](https://user-images.githubusercontent.com/48377225/215813770-e6828a05-42f8-4405-bca4-3b91dc93af7f.svg)
 
 ![animation_footer](https://user-images.githubusercontent.com/48377225/212658642-3885993b-706c-4321-9a61-327f7c131eb9.svg)
 
