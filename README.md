@@ -22,16 +22,16 @@
 - 📫&nbsp;You can shoot me an &nbsp;[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=plastic&logo=&logoColor=white%22">](mailto:dsahil.contact@gmail.com)&nbsp; I'll try to respond as soon as I can.
 - ✈️&nbsp;I regularly practice DSA questions and I'm always up for quick coding brainstorming sessions! Hire me for remote work & internships.
 - ⚡&nbsp;Fun fact: **Development is my daily Sport and CLI is my favourite playgorund.😉**
-- 📃&nbsp; Check out &nbsp;[<img src ="https://img.shields.io/badge/My-Portfolio-0D96F6.svg?&style=flat&logo=&logoColor=white">](https://sahildubeydev.github.io/Portfolio/)
+- 📃&nbsp; Check out &nbsp;[<img src ="https://img.shields.io/badge/My-Portfolio-0D96F6.svg?&style=flat&logo=&logoColor=white" target="_blank">](https://sahildubeydev.github.io/Portfolio/)
 <!-- <img alt="Degree" width="50px" height="50px" src="https://user-images.githubusercontent.com/48377225/194800441-9cd5c1ef-117c-414a-91e7-6a44c3428143.mp4"/> -->
 
 <!-- Find Me -->
 
-## Find me around the web 🌎<a href="https://www.linkedin.com/in/sahil-dubey/"><img align="left" width="220px" height="180px" src="https://user-images.githubusercontent.com/48377225/194701811-9ec16f0b-e6a0-4dd1-b0fe-12924f310428.gif"></a>
+## Find me around the web 🌎<a href="https://www.linkedin.com/in/sahil-dubey/" target="_blank"><img align="left" width="220px" height="180px" src="https://user-images.githubusercontent.com/48377225/194701811-9ec16f0b-e6a0-4dd1-b0fe-12924f310428.gif"></a>
 
-- &nbsp;&nbsp;Practising on <a href="https://leetcode.com/sahildubey/">LeetCode</a> 😍
-- &nbsp;&nbsp;Learning on <a href="https://auth.geeksforgeeks.org/user/sahil_dubey/">GeeksforGeeks</a> 🙃
-- &nbsp;&nbsp;Sharing updates on <a href="https://www.linkedin.com/in/sahildubey/">LinkedIn</a> 😇
+- &nbsp;&nbsp;Practising on <a href="https://leetcode.com/sahildubey/" target="_blank">LeetCode</a> 😍
+- &nbsp;&nbsp;Learning on <a href="https://auth.geeksforgeeks.org/user/sahil_dubey/" target="_blank">GeeksforGeeks</a> 🙃
+- &nbsp;&nbsp;Sharing updates on <a href="https://www.linkedin.com/in/sahildubey" target="_blank">LinkedIn</a> 😇
 
 <br/><br/>
 
